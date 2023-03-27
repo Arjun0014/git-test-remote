@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 file2
 sklld
 djsjd
+=======
+klkf;l
+>>>>>>> 9cd77015c4d69d79cba73aa556fd735abb149f98
